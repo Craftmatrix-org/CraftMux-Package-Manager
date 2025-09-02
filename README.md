@@ -8,9 +8,9 @@ pkg install root-repo
 pkg install x11-repo
 pkg install git
 ```
-```
+
 
 ### For Android Termux Capability.
 ```bash
 pkg install termux-api
-```
+
